@@ -27,9 +27,10 @@ Then Settings → Wins → set who gets the `/tell` on a win (target them and pr
 
 ## Install the tracker (optional)
 
-Grab **Pizza Tracker Setup 1.11.0.exe** from the [latest release](https://github.com/donovangst/pizza-challenge/releases/latest)
-and run it — per-user, no admin. If you already have it, the much smaller **update pack**
-in the same release swaps in the new version. When both are open on the same PC they link
+Grab **Pizza.Tracker.Setup.1.11.0.exe** from the [latest release](https://github.com/donovangst/pizza-challenge/releases/latest)
+and run it — per-user, no admin. If you already have it, the much smaller
+**Pizza.Tracker.Update.1.11.0.zip** in the same release swaps in the new version
+(unzip, run *Update Pizza Tracker.bat*). When both are open on the same PC they link
 by themselves: payments logged in the tracker queue pies in game, wins go back.
 
 ## One referee per table
