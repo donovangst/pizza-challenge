@@ -45,4 +45,4 @@ a round landing exactly on 440 wins the round outright. Only a plain `/random` c
 never `/dice` or `/random <number>`. A roll made before the ROUND call still counts, and a
 roll made straight after a lost round counts for the next one.
 
-_Plugin 0.6.0 · Tracker 1.11.0_
+_Plugin 0.6.1 · Tracker 1.11.0_
