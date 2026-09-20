@@ -49,4 +49,4 @@ Typed a name wrong? When the real character rolls, the overlay shows *"Will'ow S
 600 - not a name on Willow's entry"* with a **That's Willow** button; `/pizzaref bind` does the
 same. The rolls that were ignored are judged on the spot, in order.
 
-_Plugin 0.7.1 · Tracker 1.12.1_
+_Plugin 0.7.2 · Tracker 1.12.1_
