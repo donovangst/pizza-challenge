@@ -27,9 +27,9 @@ Then Settings → Wins → set who gets the `/tell` on a win (target them and pr
 
 ## Install the tracker (optional)
 
-Grab **Pizza.Tracker.Setup.1.12.0.exe** from the [latest release](https://github.com/donovangst/pizza-challenge/releases/latest)
+Grab **Pizza.Tracker.Setup.1.12.1.exe** from the [latest release](https://github.com/donovangst/pizza-challenge/releases/latest)
 and run it — per-user, no admin. If you already have it, the much smaller
-**Pizza.Tracker.Update.1.12.0.zip** in the same release swaps in the new version
+**Pizza.Tracker.Update.1.12.1.zip** in the same release swaps in the new version
 (unzip, run *Update Pizza Tracker.bat*). When both are open on the same PC they link
 by themselves: payments logged in the tracker queue pies in game, wins go back.
 
@@ -40,9 +40,13 @@ refereeing runs it; the other leaves theirs idle.
 
 ## House rules the plugin enforces
 
-Above 440 eats a slice; 440 or below ends the round. 0 counts as 1000. The very first roll of
-a round landing exactly on 440 wins the round outright. Only a plain `/random` counts —
+440 or higher eats a slice; 439 or below ends the round. 0 counts as 1000. The very first roll
+of a round landing exactly on 440 wins the round outright. Only a plain `/random` counts —
 never `/dice` or `/random <number>`. A roll made before the ROUND call still counts, and a
 roll made straight after a lost round counts for the next one.
 
-_Plugin 0.7.0 · Tracker 1.12.0_
+Typed a name wrong? When the real character rolls, the overlay shows *"Will'ow Smith rolled
+600 - not a name on Willow's entry"* with a **That's Willow** button; `/pizzaref bind` does the
+same. The rolls that were ignored are judged on the spot, in order.
+
+_Plugin 0.7.1 · Tracker 1.12.1_
