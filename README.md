@@ -45,8 +45,13 @@ of a round landing exactly on 440 wins the round outright. Only a plain `/random
 never `/dice` or `/random <number>`. A roll made before the ROUND call still counts, and a
 roll made straight after a lost round counts for the next one.
 
+When a gil trade completes, the plugin offers to log it (*Log 10 pies* on the overlay or
+`/pizzaref trade`) — it never logs a trade by itself. Adding the same name twice within 20
+seconds is held as a slip until you confirm. If someone else at the table yells your ROUND
+line, you get a warning: two referees means two sets of shouts.
+
 Typed a name wrong? When the real character rolls, the overlay shows *"Will'ow Smith rolled
 600 - not a name on Willow's entry"* with a **That's Willow** button; `/pizzaref bind` does the
 same. The rolls that were ignored are judged on the spot, in order.
 
-_Plugin 0.7.2 · Tracker 1.12.1_
+_Plugin 0.8.0 · Tracker 1.12.1_
