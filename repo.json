@@ -3,7 +3,7 @@
     "Author": "Rikun",
     "Name": "Pizza Referee",
     "InternalName": "PizzaReferee",
-    "AssemblyVersion": "0.8.2.0",
+    "AssemblyVersion": "0.8.3.0",
     "Description": "In-game referee for the Pizza Challenge. Announces each round, judges every /random against the threshold, moves through each player's pies and the queue, and keeps the night's stats and Hall of Fame. Made for the Bassment; announces in chat on your behalf, so it lives in this custom repository rather than the official list.",
     "ApplicableVersion": "any",
     "Tags": [
@@ -21,7 +21,7 @@
     "RepoUrl": "https://github.com/donovangst/pizza-challenge",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1790051798,
+    "LastUpdate": 1790052101,
     "DownloadCount": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/donovangst/pizza-challenge/main/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/donovangst/pizza-challenge/main/latest.zip",
