@@ -27,9 +27,9 @@ Then Settings → Wins → set who gets the `/tell` on a win (target them and pr
 
 ## Install the tracker (optional)
 
-Grab **Pizza.Tracker.Setup.1.16.0.exe** from the [latest release](https://github.com/donovangst/pizza-challenge/releases/latest)
+Grab **Pizza.Tracker.Setup.1.16.1.exe** from the [latest release](https://github.com/donovangst/pizza-challenge/releases/latest)
 and run it — per-user, no admin. If you already have it, the much smaller
-**Pizza.Tracker.Update.1.16.0.zip** in the same release swaps in the new version
+**Pizza.Tracker.Update.1.16.1.zip** in the same release swaps in the new version
 (unzip, run *Update Pizza Tracker.bat*). When both are open on the same PC they link
 by themselves: payments logged in the tracker queue pies in game, wins go back.
 
@@ -54,4 +54,4 @@ Typed a name wrong? When the real character rolls, the overlay shows *"Will'ow S
 600 - not a name on Willow's entry"* with a **That's Willow** button; `/pizzaref bind` does the
 same. The rolls that were ignored are judged on the spot, in order.
 
-_Plugin 0.10.0 · Tracker 1.16.0_
+_Plugin 0.10.0 · Tracker 1.16.1_
